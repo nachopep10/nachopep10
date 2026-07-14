@@ -33,7 +33,7 @@ ignacio@github:~$ whoami
 ```
 
 ```text
-Ignacio Valverde
+Ignacio Pepe Valverde
 
 Soy Técnico en Programación con conocimientos en desarrollo de software,
 bases de datos y herramientas de desarrollo modernas.
